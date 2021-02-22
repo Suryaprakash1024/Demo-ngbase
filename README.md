@@ -1,3 +1,9 @@
+Application is deployed to Vercel and link is available.
+
+
+
+
+
 Adding bootstrap: 
 "architect": {
   "build": {
